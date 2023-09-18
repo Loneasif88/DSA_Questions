@@ -2,7 +2,7 @@
 
 //Question available on GFG
 // Question link:  
-// https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1?page=1&company[]=Walmart&category[]=Recursion&sortBy=submissions
+https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1?page=1&company[]=Walmart&category[]=Recursion&sortBy=submissions
 
 
 //{ Driver Code Starts
