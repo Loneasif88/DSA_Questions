@@ -1,5 +1,5 @@
 // Question Link:
-// "https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1"
+"https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1"
 
 //{ Driver Code Starts
 // //Initial Template for Java
