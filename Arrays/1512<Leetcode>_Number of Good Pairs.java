@@ -1,6 +1,7 @@
 // 1512<leetcode> -Number of good pairs
 // Question Link: "https://leetcode.com/problems/number-of-good-pairs/?envType=daily-question&envId=2023-10-03"
 
+
 /**
 Brute Force:
 Initialize a variable count to 0.
